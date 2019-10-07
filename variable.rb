@@ -11,4 +11,4 @@
 #end
 
 greeting_phrase = "Vanakkam"
-say_greeting_five_times
+#say_greeting_five_times
